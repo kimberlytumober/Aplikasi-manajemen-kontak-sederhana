@@ -15,3 +15,5 @@ def tambah_kontak():
     nomor = input("Masukkan nomor telepon: ")
     kontak[nama] = nomor
     print("Kontak berhasil ditambahkan!")
+
+blkakakak
