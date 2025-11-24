@@ -9,3 +9,9 @@ def tampilkan_kontak():
         print("\nDaftar Kontak:")
         for nama, nomor in kontak.items():
             print(f"- {nama} : {nomor}")
+
+def tambah_kontak():
+    nama = input("Masukkan nama kontak: ")
+    nomor = input("Masukkan nomor telepon: ")
+    kontak[nama] = nomor
+    print("Kontak berhasil ditambahkan!")
