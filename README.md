@@ -11,3 +11,13 @@ Selamat datang di **Proyek Kolaborasi Aplikasi Manajemen Kontak Sederhana**. Rep
 ## Deskripsi Proyek
 
 Proyek kolaborasi berupa aplikasi **Manajemen Kontak Sederhana**
+
+## Requirements
+- [python](https://www.python.org/downloads/release/python-3140/)
+
+## Cara Penggunaan
+
+1. Clone repo:
+   ```bash
+   git clone https://github.com/kimberlytumober/Aplikasi-manajemen-kontak-sederhana.git
+   ```
