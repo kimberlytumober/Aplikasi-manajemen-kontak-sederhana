@@ -2,6 +2,9 @@
 
 Selamat datang di **Proyek Kolaborasi Aplikasi Manajemen Kontak Sederhana**. Repository ini merupakan hasil kerja sama dan pembelajaran kelompok kami dalam mata kuliah Python.
 
+## Deskripsi Program
+Program ini adalah sebuah aplikasi sederhana yang dibuat menggunakan bahasa pemrograman Python, dengan tujuan untuk membantu pengguna menyimpan dan mengatur daftar kontak. Kontak yang disimpan terdiri dari nama dan nomor telepon, lalu data tersebut disimpan ke dalam dictionary bernama kontak, di mana nama digunakan sebagai kunci (key) dan nomor telepon sebagai nilainya (value).
+
 ## Anggota Kolaborasi
 
 - **Kimberly Tumober** ([kimberlytumober](https://github.com/kimberlytumober))
