@@ -21,3 +21,19 @@ Proyek kolaborasi berupa aplikasi **Manajemen Kontak Sederhana**
    ```bash
    git clone https://github.com/kimberlytumober/Aplikasi-manajemen-kontak-sederhana.git
    ```
+2. Masuk ke direktori:
+   ```bash
+   cd Aplikasi-manajemen-kontak-sederhana
+   ```
+3. Run
+   ```bash
+   python 'Aplikasi Manajemen Kontak Sederhana.py'.py
+   ```
+
+## Lisensi
+
+Repository ini disusun sebagai bagian dari tugas mata kuliah Pengelanan Pemrograman pada Materi Dokumentasi Program.
+
+---
+
+Terima kasih. Semoga Repository ini bisa bermanfaat.
