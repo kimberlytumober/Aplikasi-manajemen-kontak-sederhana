@@ -56,7 +56,7 @@ Di dalam program, terdapat sebuah menu pilihan yang tampil berulang-ulang hingga
    ```
 
 ## Flowchart Dokumentasi Program
-[Laporan Flowchart Dokumentasi Program] (files/Flowchart - Dokumentasi Program (Wolves Innovators).drawio.pdf)
+[Laporan Flowchart Dokumentasi Program](files/Flowchart - Dokumentasi Program.drawio.pdf)
 
 ## Lisensi
 
