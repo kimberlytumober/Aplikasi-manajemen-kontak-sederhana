@@ -31,13 +31,6 @@ Di dalam program, terdapat sebuah menu pilihan yang tampil berulang-ulang hingga
 - Mengakhiri aplikasi dan menutup menu.
 
 ## Deskripsi Panduan Umum
-1. Buka aplikasi visual studio code atau python terlebih dahulu.
-2. Pilih menu “File”  “Open File”  pilih file yang di dalamnya tertera kode program yang telah dibuat (Contoh: aplikasi manajemen kontak sederhana.py).
-3. Jalankan program tersebut dengan menekan tombol “Run”.
-4. Ikuti petunjuk yang diarahkan dari program yang dijalankan sesuai ketentuan.
-5. Untuk mengakhiri program, pilih menu no.4 atau “Keluar”.
-
-## Deskripsi Panduan Umum
 1. Buka aplikasi visual studio code terlebih dahulu.
 2. Pilih menu “File” --> “Open File” --> pilih file yang di dalamnya tertera kode program yang telah dibuat (Contoh: aplikasi manajemen kontak sederhana.py).
 3. Jalankan program tersebut dengan menekan tombol “Run” di VS Code.
