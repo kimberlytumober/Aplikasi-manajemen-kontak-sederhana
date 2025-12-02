@@ -4,9 +4,9 @@ Selamat datang di **Proyek Kolaborasi Aplikasi Manajemen Kontak Sederhana**. Rep
 
 ## Anggota Kolaborasi
 
-- **Kimberly Tumober** ([Syphilum](https://github.com/kimberlytumober))
-- **Velintya Maria Evangeline Solang** ([Yoikss](https://github.com/velintyasolang026-maker))
-- **Jesika Yolina Korua** ([jiwopes-pixel](https://github.com/jesikakorua))
+- **Kimberly Tumober** ([kimberlytumober](https://github.com/kimberlytumober))
+- **Velintya Maria Evangeline Solang** ([velintyasolang026-maker](https://github.com/velintyasolang026-maker))
+- **Jesika Yolina Korua** ([jesikakorua](https://github.com/jesikakorua))
 
 ## Deskripsi Proyek
 
