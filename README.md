@@ -56,7 +56,7 @@ Di dalam program, terdapat sebuah menu pilihan yang tampil berulang-ulang hingga
    ```
 
 ## Flowchart Dokumentasi Program
-[Laporan Flowchart Dokumentasi Program](Flowchart - Dokumentasi Program.drawio.pdf)
+[Laporan Flowchart Dokumentasi Program](https://github.com/kimberlytumober/Aplikasi-manajemen-kontak-sederhana/blob/main/Flowchart%20-%20Dokumentasi%20Program.drawio.pdf)
 
 ## Lisensi
 
