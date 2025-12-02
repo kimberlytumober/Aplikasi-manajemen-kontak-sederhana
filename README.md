@@ -15,6 +15,21 @@ Program ini adalah sebuah aplikasi sederhana yang dibuat menggunakan bahasa pemr
 
 Proyek kolaborasi berupa aplikasi **Manajemen Kontak Sederhana**
 
+## Fitur Utama Program
+Di dalam program, terdapat sebuah menu pilihan yang tampil berulang-ulang hingga pengguna memutuskan untuk keluar. Melalui menu ini, pengguna dapat memilih beberapa fitur utama, yaitu :
+1.	Tampilkan Kontak
+- Fitur ini berfungsi untuk melihat semua daftar kontak yang sudah tersimpan.
+- Jika belum ada kontak yang tersimpan, program akan memberi pesan bahwa daftar kontak masih kosong.
+2.	Tambah Kontak
+- Pengguna diminta untuk memasukkan nama dan nomor telepon.
+- Setelah dimasukkan, kontak baru akan disimpan ke dalam dictionary.
+3.	Hapus Kontak
+- Pengguna diminta memasukkan nama kontak yang ingin dihapus.
+- Jika nama tersebut ada dalam daftar, kontak akan dihapus.
+- Jika tidak ditemukan, program akan memberi pesan bahwa kontak tidak ada
+4.	Keluar
+- Mengakhiri aplikasi dan menutup menu.
+
 ## Requirements
 - [python](https://www.python.org/downloads/release/python-3140/)
 
