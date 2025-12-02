@@ -55,6 +55,9 @@ Di dalam program, terdapat sebuah menu pilihan yang tampil berulang-ulang hingga
    python 'Aplikasi Manajemen Kontak Sederhana.py'.py
    ```
 
+## Flowchart Dokumentasi Program
+[Laporan Flowchart Dokumentasi Program]
+
 ## Lisensi
 
 Repository ini disusun sebagai bagian dari tugas mata kuliah Pengelanan Pemrograman pada Materi Dokumentasi Program.
